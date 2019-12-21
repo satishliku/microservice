@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.fantasticfour.zullfilters.ZullFilter&apos; to &apos;ZullLogingFilter&apos;&#x0D;&#x0A;- Original project: &apos;netflix-zuul-api-gateway-server&apos;&#x0D;&#x0A;- Original element: &apos;com.fantasticfour.zullfilters.ZullFilter&apos;&#x0D;&#x0A;- Renamed element: &apos;com.fantasticfour.zullfilters.ZullLogingFilter&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ZullFilter&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.fantasticfour.zullfilters{ZullFilter.java[ZullFilter" matchStrategy="1" name="ZullLogingFilter" qualified="false" references="true" similarDeclarations="false" stamp="1576479856246" textual="false" version="1.0"/>
+</session>

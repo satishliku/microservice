@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="netflix-eureka-naming-server"/>
+<aop-project name="config-server"/>
+<aop-project name="limits-service"/>
+<aop-project name="currency-exchange-service"/>
+<aop-project name="netflix-zuul-api-gateway-server"/>
+<aop-project name="currency-conversion-service"/>
+</aop-reference-model>
